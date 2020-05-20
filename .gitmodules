@@ -37,3 +37,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 13.0
+
+[submodule "ingadhoc/product"]
+	path = ingadhoc/product
+	url = git@github.com:ingadhoc/product.git
+	branch = 13.0
