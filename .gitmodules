@@ -27,3 +27,8 @@
 	path = ingadhoc/argentina-sale
 	url = git@github.com:ingadhoc/argentina-sale.git
 	branch = 13.0
+
+[submodule "oca/web"]
+	path = oca/web
+	url = git@github.com:oca/web.git
+	branch = 13.0
