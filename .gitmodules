@@ -12,3 +12,8 @@
 	path = ingadhoc/account-payment
 	url = git@github.com:ingadhoc/account-payment.git
 	branch = 13.0
+
+[submodule "ingadhoc/stock"]
+	path = ingadhoc/stock
+	url = git@github.com:ingadhoc/stock.git
+	branch = 13.0
